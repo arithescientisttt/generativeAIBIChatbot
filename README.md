@@ -1,5 +1,3 @@
-  Business Data Insights Chatbot - README
-
 Business Data Insights Chatbot: Automating SQL Generation & Insights Extraction
 ===============================================================================
 
